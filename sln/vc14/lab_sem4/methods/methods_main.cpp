@@ -1,0 +1,6 @@
+#include "methods.h"
+
+int main()
+{
+	return 0;
+}
